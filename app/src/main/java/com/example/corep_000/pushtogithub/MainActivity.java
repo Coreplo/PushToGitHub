@@ -52,5 +52,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void testUpload(){
         String scare="Bubusettete!";
+
+        int ii=2+2;
+        int iii=ii+2;
     }
 }
